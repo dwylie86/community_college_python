@@ -1,5 +1,6 @@
 # David Wylie
 # PA3
+# This program calculates the surface area and volume of a right cylinder.
 
 import math
 
